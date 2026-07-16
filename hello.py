@@ -1,1 +1,1 @@
-print("This is a sample git repo to test some of the gt commands!")
+print("This is a sample git repo to test some of the git commands!")
