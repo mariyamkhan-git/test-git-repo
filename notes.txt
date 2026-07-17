@@ -1,10 +1,10 @@
 Name: Mariyam Khan
 Education: BSCS (Completed)
 University: GCU Lahore
-<<<<<<< HEAD
+
 project: Git Practice
 Status:In Review(Evaluation under way)
-=======
+
 Project: Git Practice
 Status: Completed
->>>>>>> 5259ee7 (updated notes.txt on feature branch)
+
