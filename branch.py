@@ -1,3 +1,5 @@
 print("This is to test the new branch commits")
 print("New addition")
 print(".............")
+print("A sample addition sum")
+print("1234+9876+5400=", 1234+9876+5400)
