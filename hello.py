@@ -6,4 +6,7 @@ def stub():
     print("Merge successful")
     return 0
 
+def test():
+    print("This is a test function to test the pull request feature")
+    return 0
 print ("we are now going to test a pull request feature along with how to resolve conflicts.")
